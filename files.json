@@ -1,0 +1,116 @@
+{
+  "type": "folder",
+  "name": "PHYSICS-HC-VERMA-I",
+  "children": [
+    {
+      "type": "file",
+      "name": "HCVERMAPH01-INTRODUCTION_TO_PHYSICS.pdf",
+      "path": "HCVERMAPH01-INTRODUCTION_TO_PHYSICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH02-PHYSICS_AND_MATHEMATICS.pdf",
+      "path": "HCVERMAPH02-PHYSICS_AND_MATHEMATICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH03-REST_AND_MOTION_KINEMATICS.pdf",
+      "path": "HCVERMAPH03-REST_AND_MOTION_KINEMATICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH04-THE_FORCES.pdf",
+      "path": "HCVERMAPH04-THE_FORCES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH05-NEWTON_S_LAWS_OF_MOTION.pdf",
+      "path": "HCVERMAPH05-NEWTON_S_LAWS_OF_MOTION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH06-FRICTION.pdf",
+      "path": "HCVERMAPH06-FRICTION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH07-CIRCULAR_MOTION.pdf",
+      "path": "HCVERMAPH07-CIRCULAR_MOTION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH08-WORK_AND_ENERGY.pdf",
+      "path": "HCVERMAPH08-WORK_AND_ENERGY.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH09-CENTRE_OF_MASS_LINEAR_MOMENTUM_COLLISION.pdf",
+      "path": "HCVERMAPH09-CENTRE_OF_MASS_LINEAR_MOMENTUM_COLLISION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH10-ROTATIONAL_MECHANICS.pdf",
+      "path": "HCVERMAPH10-ROTATIONAL_MECHANICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH11-GRAVITATION.pdf",
+      "path": "HCVERMAPH11-GRAVITATION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH12-SIMPLE_HARMONIC_MOTION.pdf",
+      "path": "HCVERMAPH12-SIMPLE_HARMONIC_MOTION.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH13-FLUID_MECHANICS.pdf",
+      "path": "HCVERMAPH13-FLUID_MECHANICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH14-SOME_MECHANICAL_PROPERTIES_OF_MATTER.pdf",
+      "path": "HCVERMAPH14-SOME_MECHANICAL_PROPERTIES_OF_MATTER.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH15-WAVE_MOTION_AND_WAVES_ON_A_STRING.pdf",
+      "path": "HCVERMAPH15-WAVE_MOTION_AND_WAVES_ON_A_STRING.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH16-SOUND_WAVES.pdf",
+      "path": "HCVERMAPH16-SOUND_WAVES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH17-LIGHT_WAVES.pdf",
+      "path": "HCVERMAPH17-LIGHT_WAVES.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH18-GEOMETRICAL_OPTICS.pdf",
+      "path": "HCVERMAPH18-GEOMETRICAL_OPTICS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH19-OPTICAL_INSTRUMENTS.pdf",
+      "path": "HCVERMAPH19-OPTICAL_INSTRUMENTS.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH20-DISPERSION_AND_SPECTRA.pdf",
+      "path": "HCVERMAPH20-DISPERSION_AND_SPECTRA.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH21-SPEED_OF_LIGHT.pdf",
+      "path": "HCVERMAPH21-SPEED_OF_LIGHT.pdf"
+    },
+    {
+      "type": "file",
+      "name": "HCVERMAPH22-PHOTOMETRY.pdf",
+      "path": "HCVERMAPH22-PHOTOMETRY.pdf"
+    }
+  ]
+}
